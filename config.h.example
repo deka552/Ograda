@@ -1,0 +1,7 @@
+// config.h — скопируйте этот файл как config.h и заполните своими данными
+// НЕ коммитьте config.h в репозиторий!
+
+#define WIFI_SSID "your_wifi_ssid"
+#define WIFI_PASS "your_wifi_password"
+#define BOT_TOKEN "your_telegram_bot_token"
+#define CHAT_ID   "your_telegram_chat_id"

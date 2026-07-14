@@ -1,0 +1,12 @@
+# Секреты
+config.h
+
+# PlatformIO
+.pio/
+.vscode/
+lib/
+include/
+
+# Системные
+.DS_Store
+Thumbs.db
